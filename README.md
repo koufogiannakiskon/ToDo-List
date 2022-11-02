@@ -1,7 +1,7 @@
 # ToDo List
 
 ## Description
-In this project I created an interactive To Do List with vanilla Javascript.
+In this project I created an interactive To Do List with Vanilla JavaScript.
 <hr/>
 <img src="screenshot.png" width=500/>
 <hr/>
