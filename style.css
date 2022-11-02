@@ -224,3 +224,17 @@ form {
 .btn.delete:hover {
   color: var(--clr-warning);
 }
+
+div.control-color {
+  grid-area: color;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+div.control-color label {
+  font-size: 0.8em;
+  font-weight: bold;
+  mix-blend-mode: difference;
+}
